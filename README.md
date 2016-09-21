@@ -1,6 +1,6 @@
 # Kentico Gitignore
 
-This Gitignore file is designed to help you ignore/include all the right files in your Git repository for Kentico projects. 
+This gitignore file is designed to help you ignore/include all the right files in your Git repository for Kentico projects. 
 
 ## Important notes
 1. Uses the default ignore from Visual Studio as the starting point.
