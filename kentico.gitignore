@@ -139,7 +139,7 @@ publish/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
-# TODO: Un-comment the next line if you do not want to checkin 
+# TODO: Un-comment the next line if you do not want to checkin
 # your web deploy settings because they may include unencrypted
 # passwords
 #*.pubxml
@@ -263,8 +263,9 @@ $RECYCLE.BIN/
 ## Kentico project files
 
 # Include some Kentico folders excluded by rules above
-!CMS/CMSAdminControls/*/ 
+!CMS/CMSAdminControls/*/
 !CMS/CMSModules/System/*/
+!CMS/App_Data/CIRepository/**
 
 # Kentico temporary/environment files
 CMS/App_Data/AzureCache
@@ -283,7 +284,7 @@ CMS/App_Data/CMSModules/SmartSearch/**
 !CMS/App_Data/CMSModules/SmartSearch/_Synonyms/**
 
 ## Kentico Starter Sites
-# Starter site resource Files 
+# Starter site resource Files
 CMS/App_Data/DancingGoat
 
 # Starter site web templates
@@ -313,7 +314,7 @@ CMS/IntranetPortal
 CMS/PersonalSite
 
 ## Project specific ignores
-# Sensitive settings 
+# Sensitive settings
 AppSettings.config
 ConnectionStrings.config
 
