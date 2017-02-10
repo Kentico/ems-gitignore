@@ -271,6 +271,7 @@ $RECYCLE.BIN/
 CMS/App_Data/AzureCache
 CMS/App_Data/AzureTemp
 CMS/App_Data/CMSModules/DeviceProfile/logFiftyOne.txt
+CMS/App_Data/CMSModules/DeviceProfiles/logFiftyOne.txt
 CMS/App_Data/CMSModules/WebFarm/webfarm.sync
 CMS/App_Data/CMSTemp
 CMS/App_Data/Persistent
